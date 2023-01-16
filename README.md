@@ -1,2 +1,2 @@
-# Projects of the Object Oriented Programming Course 
-These projects are developed in java, have their own interface using the Swing library and use .csv data files as source of information.
+# Object Oriented Programming Course Projects
+These projects are developed in Java, have their own graphical interface using the Swing library and use data files in .csv format as a source of information.
